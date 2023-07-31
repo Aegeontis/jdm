@@ -16733,6 +16733,17 @@
     },
 
     {
+        "name": "TLauncher",
+        "url": "https://tlauncher.org/en/privacy-policy.html",
+        "difficulty": "hard",
+        "notes": "Contact support by email and request account deletion.",
+        "email": "admin@tlauncher.org",
+        "domains": [
+            "tlauncher.org"
+        ]
+    },
+
+    {
         "name": "TKirch.dev",
         "url": "https://tkirch.dev/account-management/",
         "difficulty": "easy",
