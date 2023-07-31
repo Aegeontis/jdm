@@ -17513,6 +17513,17 @@
     },
 
     {
+        "name": "Unknowncheats",
+        "url": "https://www.unknowncheats.me/forum/pp.html",
+        "difficulty": "hard",
+        "notes": "Contact siteadmins by email and request account deletion.",
+        "email": "siteadmin@unknowncheats.me",
+        "domains": [
+            "unknowncheats.me"
+        ]
+    },
+
+    {
         "name": "Unroll.me",
         "url": "https://unroll.me/user/settings",
         "difficulty": "easy",
